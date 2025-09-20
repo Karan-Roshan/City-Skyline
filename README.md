@@ -3,7 +3,19 @@ A responsive **city skyline** built entirely with **HTML5 + CSS3**, featuring la
 
 
 ## Preview
+- Day Skyline
+<p align="center">
+  <img src="https://github.com/Karan-Roshan/City-Skyline/blob/974aef7f55ebc5a16e762f293f60f6b0a40c4ef8/Photos/Day%20Skyline.png" 
+       alt="Day Skyline" 
+       width="300">
+</p>
 
+- Night Skyline
+<p align="center">
+  <img src="https://github.com/Karan-Roshan/City-Skyline/blob/974aef7f55ebc5a16e762f293f60f6b0a40c4ef8/Photos/Night%20Skyline.png" 
+       alt="Night Skyline" 
+       width="300">
+</p>
 
 ## Features
 - **Customizable Colors** – Uses CSS variables (`:root`) for easy theming of buildings and windows.  
