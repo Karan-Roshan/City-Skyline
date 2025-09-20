@@ -12,7 +12,7 @@ A responsive **city skyline** built entirely with **HTML5 + CSS3**, featuring la
 
 - Night Skyline
 <p align="center">
-  <img src="https://github.com/Karan-Roshan/City-Skyline/blob/974aef7f55ebc5a16e762f293f60f6b0a40c4ef8/Photos/Night%20Skyline.png" 
+  <img src="https://github.com/Karan-Roshan/City-Skyline/blob/af37b45d97ab79945c85f4c29e32f453fe3bab04/Photos/Night%20Skyline.png" 
        alt="Night Skyline" 
        width="300">
 </p>
