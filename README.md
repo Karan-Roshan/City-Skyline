@@ -51,3 +51,8 @@ A responsive **city skyline** built entirely with **HTML5 + CSS3**, featuring la
 - **CSS3** – Layout, gradients, shapes, responsiveness.  
 - **Flexbox** – Aligns and spaces buildings evenly.  
 - **CSS Gradients** – Simulates windows, sky, and building textures.
+
+
+# Connect with Me
+- LinkedIn: www.linkedin.com/in/karanroshan
+- Email: karanroshan91@gmail.com
